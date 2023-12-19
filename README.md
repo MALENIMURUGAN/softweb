@@ -197,7 +197,7 @@ mainpage.html
     </center>
 
 </body>
-<footer style="background-color:darkmagenta;margin-top: 143; border: none;">
+<footer style="background-color:darkmagenta;margin-top: 218px; border: none;">
     <P style="color:#ffffff; ;"align="center">Designed and Devoloped by MALENI M 2023 </P>
 </footer>
 </html>
@@ -282,7 +282,7 @@ products.html
         <img src="bg4.jpg" height="500" width="800">
     </center>
     </body>
-    <footer style="background-color:darkmagenta;margin-top: 64; border: none;">
+    <footer style="background-color:darkmagenta;margin-top: 135px; border: none;">
         <P style="color:#ffffff; ;"align="center">Designed and Devoloped by MALENI M 2023 </P>
     </footer>
 </html>
@@ -407,7 +407,7 @@ about.html
 
 </DIV>
 </body>
-<footer style="background-color:darkmagenta;margin-top: 143; border: none;">
+<footer style="background-color:darkmagenta;margin-top: 218px; border: none;">
     <P style="color:#ffffff; ;"align="center">Designed and Devoloped by MALENI M 2023 </P>
 </footer>
 </html>
@@ -561,7 +561,7 @@ sign.html
     </div>
 </div>
 </body>
-<footer style="background-color:darkmagenta; border: none;">
+<footer style="background-color:darkmagenta;margin-top:63px; border: none;">
     <P style="color:#ffffff ;"align="center">Designed and Devoloped by MALENI M 2023 </P>
 </footer>
 </html>
@@ -729,7 +729,7 @@ border:2px solid white;
     </center>
     </div>
 </body>
-<footer style="background-color:darkmagenta;margin-top: 118px; border: none;">
+<footer style="background-color:darkmagenta;margin-top: 200px; border: none;">
     <P style="color:#ffffff ;"align="center">Designed and Devoloped by MALENI M 2023 </P>
 </footer>
 </html>
